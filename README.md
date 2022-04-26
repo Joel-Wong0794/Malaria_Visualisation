@@ -8,7 +8,7 @@ _By Joel Wong_
     - The Exploratory Data Analysis done for the assessment.
 5.  Within this repository, is also the interactive Streamlit Application.
     - Option 1: Access the Web Application via this <a href="https://share.streamlit.io/joel-wong0794/malaria_visualisation/main">LINK</a>.
-    - Option 2: Download this folder, type in `Streamlit run streamlit_app.py` in the terminal. This will launch the Streamlit application offline on your computer.
+    - Option 2: Download this folder, type `Streamlit run streamlit_app.py` in the terminal. This will launch the Streamlit application offline on your computer.
 
 
 ## *B) Datasets*
