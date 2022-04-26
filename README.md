@@ -2,9 +2,9 @@
 _By Joel Wong_
 
 ## *A) Description of Files in this Repository*
-1. "(Main - HTML) Technical Assessmeng Submission.html" 
-    - The Jupyter Notebook in HTML for the technical assessment and is based on the Jupyter Notebook "(Main) Technical Assessment Submission.ipynb".
-3.  "(Main - ipynb) Technical Assessmeng Submission.ipynb" 
+1. "(Main - HTML) Technical Assessment Submission.html" 
+    - The Jupyter Notebook in HTML for the technical assessment and is based on the Jupyter Notebook "(Main - ipynb) Technical Assessment Submission.ipynb".
+3.  "(Main - ipynb) Technical Assessment Submission.ipynb" 
     - The Exploratory Data Analysis done for the assessment.
 5.  Within this repository, is also the interactive Streamlit Application.
     - Option 1: Access the Web Application on https://share.streamlit.io/joel-wong0794/malaria_visualisation/main
