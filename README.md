@@ -19,4 +19,4 @@ Source 1 - <a href="https://github.com/rfordatascience/tidytuesday/tree/master/d
 - *malaria_deaths_age.txt* - Malaria deaths by age across the world and time.
 
 Source 2 (Additional) - <a href="https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region?resource=download">Country Mapping - ISO, Continent, Region</a>
-- *continents2.csv*- List of ISO 3166 country code Infomation.
+- *continents2.csv* - List of ISO 3166 country code Infomation.
